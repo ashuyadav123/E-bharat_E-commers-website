@@ -110,7 +110,7 @@ const logout=()=>{
                     >
                       <img
                         className="inline-block w-10 h-10 rounded-full"
-                        src="public\images\Image.jpg"
+                        src="/images/Image.jpg"
                         alt="Dan_Abromov"
                       />{" "}
                     </Link>
@@ -252,7 +252,7 @@ const logout=()=>{
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src="public\images\AshuPic.jpg"
+                      src="/images/AshuPic.jpg"
                       alt="Dan_Abromov"
                     />
                   </a>
